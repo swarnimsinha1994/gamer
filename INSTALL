@@ -1,0 +1,9 @@
+Building gamertip
+
+See doc/readme-qt.rst for instructions on building gamertip QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of gamertip.
+
+See doc/build-*.txt for instructions on building gamertipd,
+the intended-for-services, no-graphical-interface, reference
+implementation of gamertip.
